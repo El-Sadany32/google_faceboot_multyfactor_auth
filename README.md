@@ -9,7 +9,7 @@
 > + upload user image to cloudnary
 > + Change permissions and delete user accounts with Admin.
 
-[Heroku Demo](https://e-commerce32.herokuapp.com/)
+[Heroku Demo](https://full-auth32.herokuapp.com/)
 
 
 ### Admin interface as he can only chenge users accounts and ther permissions (can make another user admin or not) and can delete , edit users accounts
