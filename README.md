@@ -1,4 +1,5 @@
-### google_faceboot_multyfactor_auth
+### MERN Authentication, Login, Register, Verification email, Facebook, Google, Forget Password
+
 
 > Include:
 > + Register, login with validation form.
