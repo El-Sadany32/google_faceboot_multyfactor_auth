@@ -6,7 +6,7 @@
 > + Quick login with Google, Facebook.
 > + Forgot password, reset password and register a new account by Email verification.
 > + Update personal information (name, password and avatar)
-> + upload user image to cloudnary
+> + upload user image to cloudnary .
 > + Change permissions and delete user accounts with Admin.
 
 [Heroku Demo](https://full-auth32.herokuapp.com/)
